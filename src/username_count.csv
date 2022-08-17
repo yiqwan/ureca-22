@@ -1,0 +1,4 @@
+polarity,Unnamed: 0,date,user_id,username,tweet,concept,emotion
+NEGATIVE,1867,1867,1867,1867,1867,1867,1867
+POSITIVE,1575,1575,1575,1575,1575,1575,1575
+NEUTRAL,8,8,8,8,8,8,8
